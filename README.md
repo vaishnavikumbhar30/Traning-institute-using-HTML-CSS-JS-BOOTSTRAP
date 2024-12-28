@@ -1,7 +1,8 @@
 # Traning-institute-using-HTML-CSS-JS-BOOTSTRAP
 
 
-"This project is a fully responsive training institute website created using HTML, CSS, JavaScript, and Bootstrap. The platform is designed to provide an intuitive and seamless user experience on devices of all sizes, ensuring accessibility for a broad audience.
+"This project is a fully responsive training institute website created using HTML, CSS, JavaScript, 
+and Bootstrap. The platform is designed to provide an intuitive and seamless user experience on devices of all sizes, ensuring accessibility for a broad audience.
 
 Key features include:
 
